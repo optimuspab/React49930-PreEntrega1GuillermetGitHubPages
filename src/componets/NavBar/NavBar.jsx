@@ -5,7 +5,7 @@ const NavBar = () => {
     return (
         <div id="navbar">
             <a href="index.html" className="navbar-brand">
-                <img src="./images/tt_logo_white.png" alt="Trendy Tech Logo" className="logo"></img>
+                <img src="../img/tt_logo_white.png" alt="Trendy Tech Logo" className="logo"></img>
             </a>
             <ul>
                 <li><a href="#audio">Audio</a></li>
